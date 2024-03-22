@@ -43,8 +43,7 @@
 *.pdb
 
 # Kernel Module Compile Results
-*.mod*
-*.cmd
+*.mod
 .tmp_versions/
 modules.order
 Module.symvers
